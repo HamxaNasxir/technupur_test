@@ -1,0 +1,12 @@
+const String menuDashboard = 'assets/home.png';
+const String menuCategory = 'assets/category.png';
+const String menuCart = 'assets/cart.png';
+const String menuWishlist = 'assets/wishlist.png';
+const String menuUser = 'assets/user.png';
+const String appBarLogo = 'assets/appbar_logo.png';
+const String drawer = 'assets/drawer.png';
+const String search = 'assets/search.png';
+const String shippingBanner = 'assets/shipping_banner.png';
+const String newsLetter = 'assets/news_letter.png';
+const String fav = 'assets/fav.png';
+const String unFav = 'assets/un_fav.png';
